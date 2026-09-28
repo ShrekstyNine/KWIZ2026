@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background: #121212;
+    color: white;
+
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* Header */
+
+header {
+    text-align: center;
+
+    padding: 50px 20px;
+
+    background: #1f1f1f;
+}
+
+header h1 {
+    margin: 0;
+
+    font-size: 42px;
+}
+
+header p {
+    color: #aaaaaa;
+
+    font-size: 18px;
+}
+
+
+/* Main */
+
+main {
+    flex: 1;
+
+    width: 100%;
+    max-width: 700px;
+
+    margin: 50px auto;
+
+    padding: 20px;
+}
+
+
+/* Login */
+
+#login-section {
+    text-align: center;
+
+    background: #1e1e1e;
+
+    padding: 40px;
+
+    border-radius: 12px;
+
+    border: 1px solid #333;
+}
+
+#login-section h2 {
+    margin-top: 0;
+}
+
+
+/* Code input */
+
+input {
+    width: 100%;
+
+    padding: 14px;
+
+    margin: 20px 0;
+
+    background: #121212;
+
+    border: 1px solid #444;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 16px;
+
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+
+    border-color: #777;
+}
+
+
+/* Buttons */
+
+button {
+    width: 100%;
+
+    padding: 14px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background: #4caf50;
+
+    color: white;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+
+/* Error */
+
+#error-message {
+    color: #ff5555;
+
+    margin-top: 15px;
+}
+
+
+/* Challenge */
+
+.challenge {
+    background: #1e1e1e;
+
+    border: 1px solid #333;
+
+    border-radius: 12px;
+
+    padding: 35px;
+}
+
+.challenge h2 {
+    color: #888;
+
+    font-size: 16px;
+}
+
+.challenge h3 {
+    font-size: 30px;
+
+    margin: 10px 0;
+}
+
+.challenge p {
+    color: #bbbbbb;
+
+    line-height: 1.6;
+}
+
+
+/* Challenge details */
+
+.details {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+
+    margin: 25px 0;
+
+    color: #ddd;
+}
+
+
+/* Completion message */
+
+#completion-message {
+    text-align: center;
+
+    color: #4caf50;
+
+    font-weight: bold;
+}
+
+
+/* Hidden */
+
+.hidden {
+    display: none;
+}
+
+
+/* Footer */
+
+footer {
+    text-align: center;
+
+    padding: 30px;
+
+    color: #777;
+}

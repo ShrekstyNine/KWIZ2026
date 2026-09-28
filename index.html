@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>KWIZ 2026</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>CHALLENGES</h1>
+        <p>Enter your code to reveal your challenge.</p>
+    </header>
+
+
+    <!-- Code Entry -->
+
+    <main>
+
+        <section id="login-section">
+
+            <input
+                type="text"
+                id="code-input"
+                placeholder="Enter your code"
+            >
+
+            <button onclick="showChallenge()">
+                Reveal Challenge
+            </button>
+
+            <p id="error-message"></p>
+
+        </section>
+
+
+        <!-- Challenge -->
+
+        <section id="challenge-section" class="hidden">
+
+            <div class="challenge">
+
+                <h2 id="challenge-number"></h2>
+
+                <h3 id="challenge-title"></h3>
+
+                <p id="challenge-description"></p>
+
+                <div class="details">
+
+                    <span id="challenge-reward"></span>
+
+                    <span id="challenge-difficulty"></span>
+		    
+		    <span id="challenge-modifier"></span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>Good luck</p>
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
