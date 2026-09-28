@@ -8,7 +8,7 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "2",
+        number: "1",
         title: "STARTING WITH A CLASSIC",
         description: "Provide a fit pic with an album recommendation, making the two of them match.",
         modifier: "Modifier: None"
