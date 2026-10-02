@@ -8,9 +8,9 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "1",
-        title: "STARTING WITH A CLASSIC",
-        description: "Provide a fit pic with an album recommendation, making the two of them match.",
+        number: "2",
+        title: "E G G",
+        description: "Cook an egg in a way nobody else in the Quiz Victims GC has.",
         modifier: "Modifier: None"
     },
 
