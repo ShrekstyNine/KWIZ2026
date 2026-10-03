@@ -8,9 +8,9 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "2",
-        title: "E G G",
-        description: "Cook an egg in a way nobody else in the Quiz Victims GC has.",
+        number: "3",
+        title: "BLASTING THE PAST",
+        description: "Have a differently flavoured sorbet at each G&D location.",
         modifier: "Modifier: None"
     },
 
