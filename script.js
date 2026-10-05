@@ -8,10 +8,10 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "4",
-        title: "TRAINING ARC",
-        description: "Complete the Leg Workout of Hell (ask Officer for the specifics)",
-        modifier: "Modifier: Limited Time - you have until October 12th 2026 2:32pm to complete this challenge, otherwise you'll be sent back to the previous challenge."
+        number: "5",
+        title: "BUNDLE OF JOY",
+        description: "Make an edit of yourself and Officer.",
+        modifier: "Modifier: Double Points"
     },
 
     "ZEBFWEH": {
