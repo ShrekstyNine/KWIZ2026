@@ -8,10 +8,10 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "3",
-        title: "BLASTING THE PAST",
-        description: "Have a differently flavoured sorbet at each G&D location.",
-        modifier: "Modifier: None"
+        number: "4",
+        title: "TRAINING ARC",
+        description: "Complete the Leg Workout of Hell (ask Officer for the specifics)",
+        modifier: "Modifier: Limited Time - you have until October 12th 2026 2:32pm to complete this challenge, otherwise you'll be sent back to the previous challenge."
     },
 
     "ZEBFWEH": {
