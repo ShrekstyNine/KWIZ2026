@@ -8,10 +8,10 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "5",
-        title: "BUNDLE OF JOY",
-        description: "Make an edit of yourself and Officer.",
-        modifier: "Modifier: Double Points"
+        number: "6",
+        title: "EVIL",
+        description: "Complete a challenge per person, that was unique to each person’s bingo card from last year.",
+        modifier: "Modifier: None"
     },
 
     "ZEBFWEH": {
