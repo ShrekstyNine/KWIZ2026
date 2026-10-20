@@ -29,10 +29,10 @@ const challenges = {
     },
 
     "HAMZAFWEH": {
-        number: "2",
-        title: "E G G",
-        description: "Cook an egg in a way nobody else in the Quiz Victims GC has.",
-        modifier: "Modifier: Spider-Man It Up - Incorporate Spider-Man into your completion of the challenge for it to count."
+        number: "3",
+        title: "BLASTING THE PAST",
+        description: "Create a beat that summarises our time in Osaka, Kyoto or Tokyo.",
+        modifier: "Modifier: None"
     }
 
 };
