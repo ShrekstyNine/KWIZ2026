@@ -29,10 +29,10 @@ const challenges = {
     },
 
     "HAMZAFWEH": {
-        number: "3",
-        title: "BLASTING THE PAST",
-        description: "Create a beat that summarises our time in Osaka, Kyoto or Tokyo.",
-        modifier: "Modifier: None"
+        number: "4",
+        title: "TRAINING ARC",
+        description: "Log at least 5 workouts on Hevy",
+        modifier: "Modifier: Double Points"
     }
 
 };
