@@ -8,9 +8,9 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "6",
-        title: "EVIL",
-        description: "Complete a challenge per person, that was unique to each person’s bingo card from last year.",
+        number: "7",
+        title: "EVIL 2: ELECTRIC BOOGALOO",
+        description: "While juggling, sing a Soulja Boy verse.",
         modifier: "Modifier: None"
     },
 
