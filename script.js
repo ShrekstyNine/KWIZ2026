@@ -8,9 +8,9 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "7",
-        title: "EVIL 2: ELECTRIC BOOGALOO",
-        description: "While juggling, sing a Soulja Boy verse.",
+        number: "8",
+        title: "THING 1 AND THING 2",
+        description: "Get somebody to complete one of your previous unique challenges (Challenges 3-7)",
         modifier: "Modifier: None"
     },
 
