@@ -8,10 +8,10 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "8",
-        title: "THING 1 AND THING 2",
-        description: "Get somebody to complete one of your previous unique challenges (Challenges 3-7)",
-        modifier: "Modifier: None"
+        number: "9",
+        title: "NO I IN TEAM",
+        description: "Dress up as a femboy and ask Zeb to give your outfit a rating out of 10 - needs to be at least an 8 to pass.",
+        modifier: "Modifier: Spider-Man It Up - Incorporate Spider-Man into your completion of the challenge for it to count."
     },
 
     "ZEBFWEH": {
