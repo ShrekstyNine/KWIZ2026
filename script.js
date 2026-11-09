@@ -8,9 +8,9 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "FINAL CHALLENGE",
-        title: "FRIENDS TO ENEMIES?",
-        description: "This challenge was given to you by another Kwiz Victim - Sit and count to 1 million.",
+        number: "CHALLENGES COMPLETE",
+        title: "There are no more challenges",
+        description: "No like actually, you're done...",
         modifier: "Modifier: None"
     },
 
