@@ -8,10 +8,10 @@ const challenges = {
     },
 
     "DREWFWEH": {
-        number: "9",
-        title: "NO I IN TEAM",
-        description: "Dress up as a femboy and ask Zeb to give your outfit a rating out of 10 - needs to be at least an 8 to pass.",
-        modifier: "Modifier: Spider-Man It Up - Incorporate Spider-Man into your completion of the challenge for it to count."
+        number: "FINAL CHALLENGE",
+        title: "FRIENDS TO ENEMIES?",
+        description: "This challenge was given to you by another Kwiz Victim - Sit and count to 1 million.",
+        modifier: "Modifier: None"
     },
 
     "ZEBFWEH": {
